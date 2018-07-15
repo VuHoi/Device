@@ -1,0 +1,5 @@
+const STATUS={
+    SPENDING:"SPENDING",
+    BORROWED:"BORROWED",
+    PAID:"PAID",
+}
